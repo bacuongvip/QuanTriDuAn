@@ -12,4 +12,4 @@ tên dự án : website bán điện thoại
 	trường: 1,2,3
 
 	# Tôi làm các việc liên quan đến quản lý, giám sát tiến độ dự án
-	hiếu: 4,9,10,11
+	hiếu: 4,9,10,11,12
