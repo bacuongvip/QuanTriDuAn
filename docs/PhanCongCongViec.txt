@@ -1,6 +1,6 @@
 tên dự án : website bán điện thoại
 +phân công :
-
+@@
 	# ông này làm các việc liên quan đến code, tạo csdl, viết giao diện,...
 	hoàn : 8
 
